@@ -2,6 +2,7 @@
 //a cada 5km acima do limite voce ganha 1 ponto na carteira
 //Math.Floor()
 // caso os pontos maior que 12 -> 'Carteira suspensa'
+//edição de teste
 
 verificarVelocidade(130);
 
